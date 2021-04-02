@@ -11,9 +11,9 @@
 ##### The Ultimate Nginx Bad Bot, User-Agent, Spam Referrer Blocker, Adware, Malware and Ransomware Blocker, Clickjacking Blocker, Click Re-Directing Blocker, SEO Companies and Bad IP Blocker with Anti DDOS System, Nginx Rate Limiting and Wordpress Theme Detector Blocking. Stop and Block all kinds of bad internet traffic even Fake Googlebots from ever reaching your web sites. [PLEASE SEE: Definition of Bad Bots](#define-bad-bots)
 
 _______________
-#### Version: V4.2020.02.1957
-#### Bad Referrers Blocked: [6825](https://raw.githubusercontent.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker/master/_generator_lists/bad-referrers.list)
-#### Bad User-Agents (Bots) Blocked: [562](https://raw.githubusercontent.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker/master/_generator_lists/bad-user-agents.list)
+#### Version: V4.2021.04.2315
+#### Bad Referrers Blocked: [6962](https://raw.githubusercontent.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker/master/_generator_lists/bad-referrers.list)
+#### Bad User-Agents (Bots) Blocked: [608](https://raw.githubusercontent.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker/master/_generator_lists/bad-user-agents.list)
 #### Fake Googlebots Blocked: [217](https://raw.githubusercontent.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker/master/_generator_lists/fake-googlebots.list)
 ____________________
 
@@ -28,9 +28,9 @@ ____________________
 _______________________
 ##### Tested On:
 ##### nginx version: nginx/1.10.x :heavy_check_mark:
-##### nginx version: nginx/1.16.1 :heavy_check_mark:
+##### nginx version: nginx/1.18.0 (Ubuntu) :heavy_check_mark:
 ##### nginx version: nginx/1.15.8 :heavy_check_mark:
-##### nginx version: nginx/1.17.8 :heavy_check_mark:
+##### nginx version: nginx/1.19.9 :heavy_check_mark:
 __________________________
 
 Not Using Nginx? See the [![Get the APACHE ULTIMATE BAD BOT BLOCKER](https://img.shields.io/badge/APACHE%20-%20ULTIMATE%20BAD%20BOT%20BLOCKER%20%E2%9B%94-blue.svg)](https://github.com/mitchellkrogza/apache-ultimate-bad-bot-blocker)
@@ -56,17 +56,33 @@ Please make sure you are subscribed to Github Notifications to be notified when 
 ************************************************
 <img src="https://github.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker/blob/master/.assets/step-1.png"/>
 
+##### Linux
+
 Download install-ngxblocker to your /usr/local/sbin/directory and make the script executable.
 
-```
+```sh
 sudo wget https://raw.githubusercontent.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker/master/install-ngxblocker -O /usr/local/sbin/install-ngxblocker
 sudo chmod +x /usr/local/sbin/install-ngxblocker
 ```
 
 If your Linux distribution does not have wget you can replace the wget command above using curl as follows:
 
-```
+```sh
 curl -sL https://raw.githubusercontent.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker/master/install-ngxblocker -o /usr/local/sbin/install-ngxblocker
+```
+
+##### FreeBSD
+
+Install the package.
+
+```sh
+pkg install www/nginx-ultimate-bad-bot-blocker
+```
+
+Alternatively install via portmaster:
+
+```sh
+portmaster www/nginx-ultimate-bad-bot-blocker
 ```
 
 ************************************************
@@ -76,7 +92,7 @@ Now run the install-ngxblocker script in DRY-MODE which will show you what chang
 
 The install-ngxblocker downloads all required files including the setup and update scripts.
 
-```
+```sh
 cd /usr/local/sbin
 sudo ./install-ngxblocker
 ```
@@ -84,7 +100,7 @@ sudo ./install-ngxblocker
 This will show you output as follows of the changes that will be made 
 **(NOTE: this is only a DRY-RUN no changes have been made)**
 
-```
+```text
 Checking url: https://raw.githubusercontent.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker/master/include_filelist.txt
 
 ** Dry Run ** | not updating files | run  as 'install-ngxblocker -x' to install files.
@@ -122,14 +138,14 @@ Downloading [FROM]=>  [REPO]/update-ngxblocker     [TO]=>  /usr/local/sbin/updat
 
 Now run the install script with the -x parameter to download all the necessary files from the repository:
 
-```
+```sh
 cd /usr/local/sbin/
 sudo ./install-ngxblocker -x
 ```
 
 This will give you the following output:
 
-```
+```text
 Checking url: https://raw.githubusercontent.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker/master/include_filelist.txt
 
 Creating directory: /etc/nginx/bots.d
@@ -160,7 +176,7 @@ All the required files have now been downloaded to the correct folders on Nginx 
 
 **MAKE SURE you set your setup and update scripts to be executable by running the following two commands. This is important before continuing with Step 4 and onwards.**
 
-```
+```sh
 sudo chmod +x /usr/local/sbin/setup-ngxblocker
 sudo chmod +x /usr/local/sbin/update-ngxblocker
 ```
@@ -174,7 +190,7 @@ sudo chmod +x /usr/local/sbin/update-ngxblocker
 
 Now run the setup-ngxblocker script in DRY-MODE which will show you what changes it will make and what files it will download for you. This is only a DRY-RUN so no changes are being made yet.
 
-```
+```sh
 cd /usr/local/sbin/
 sudo ./setup-ngxblocker
 ```
@@ -182,7 +198,7 @@ sudo ./setup-ngxblocker
 This will give you output as follows (this output below assumes your nginx.conf file already has the default include of /etc/nginx/conf.d/*)
 All Nginx installations I know of have this default include in the nginx.conf file distributed with all versions.
 
-```
+```text
 Checking url: https://raw.githubusercontent.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker/master/include_filelist.txt
 
 ** Dry Run ** | not updating files | run  as 'setup-ngxblocker -x' to setup files.
@@ -217,14 +233,14 @@ For instance if your vhost files end in .conf you will change this execute setup
 
 So now let's run the setup script and let it make all the changes we need to make the Bot Blocker active on all your sites.
 
-```
+```sh
 cd /usr/local/sbin/
 sudo ./setup-ngxblocker -x
 ```
 
 You will see output as follows:
 
-```
+```text
 Checking url: https://raw.githubusercontent.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker/master/include_filelist.txt
 
 INFO:      /etc/nginx/conf.d/* detected               => /etc/nginx/nginx.conf
@@ -240,7 +256,7 @@ You will note it has done the includes in all the .vhost files on my test bed se
 
 What this setup script has done has simply added the following include statements into your .vhost files for you, it also adds /etc/nginx/conf.d/* to the includes in nginx.conf (if not already in nginx.conf), otherwise, the whole script will fail.
 
-```
+```nginx
 # Bad Bot Blocker
 include /etc/nginx/bots.d/ddos.conf;
 include /etc/nginx/bots.d/blockbots.conf;
@@ -259,7 +275,7 @@ Now test your nginx configuration
 
 and you should see
 
-```
+```text
 nginx: the configuration file /etc/nginx/nginx.conf syntax is ok
 nginx: configuration file /etc/nginx/nginx.conf test is successful
 ```
@@ -309,13 +325,16 @@ That's it, the blocker will automatically keep itself up to date and also reload
 
 You can now customize any of the following files below to suit your environment or requirements. These include files never get modified during an update using the auto update script above so whatever customizations you do here will never be overwritten during an update.
 
-```
+```text
 /etc/nginx/bots.d/whitelist-ips.conf
 /etc/nginx/bots.d/whitelist-domains.conf
+/etc/nginx/bots.d/blockbots.conf
+/etc/nginx/bots.d/blacklist-domains.conf
 /etc/nginx/bots.d/blacklist-user-agents.conf
 /etc/nginx/bots.d/blacklist-ips.conf
 /etc/nginx/bots.d/bad-referrer-words.conf
 /etc/nginx/bots.d/custom-bad-referrers.conf
+/etc/nginx/bots.d/ddos.conf
 ```
 
 Let's say for some "obscure" reason you actually want to block GoogleBot from accessing your site. You would simply add it to the /etc/nginx/bots.d/blacklist-user-agents.conf file and it will over-ride the default whitelist for GoogleBot. the same applies to any other bots that are whitelisted by default.
@@ -402,7 +421,7 @@ This means the CDN is working.
 
 Some people build Nginx themselves and do not end up having the standard nginx folder locations at `/etc/nginx`
 
-For users like this you can run the install-ngblocker, setup-ngxblocker and update-ngblocker specifying your
+For users like this you can run the install-ngxblocker, setup-ngxblocker and update-ngxblocker specifying your
 folder location in the command lines as follows.
 
 `sudo ./install-ngxblocker -x -c /usr/local/nginx/conf.d -b /usr/local/nginx/bots.d`
@@ -411,7 +430,7 @@ folder location in the command lines as follows.
 
 `sudo ./update-ngxblocker -c /usr/local/nginx/conf.d -b /usr/local/nginx/bots.d -e yourname@youremail.com`
 
-This will automatically put the files into the locations you specify, it will do the includes into your vhosts using your custom locations  and when update-ngblocker pulls a new update it will also now automatically re-write the "Include" sections inside the globalblacklist.conf file your own custom locations. Thanks again to Stuart Cardall @itoffshore for his contributions of these excellent scripts.
+This will automatically put the files into the locations you specify, it will do the includes into your vhosts using your custom locations  and when update-ngxblocker pulls a new update it will also now automatically re-write the "Include" sections inside the globalblacklist.conf file your own custom locations. Thanks again to Stuart Cardall @itoffshore for his contributions of these excellent scripts.
 
 ************************************************
 # WHY BLOCK BAD BOTS ?
