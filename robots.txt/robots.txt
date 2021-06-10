@@ -6,9 +6,9 @@
 
 ### Version Information #
 ###################################################
-### Version: V4.2021.04.2315
-### Updated: Fri Apr  2 01:25:01 SAST 2021
-### Bad Bot Count: 608
+### Version: V4.2021.06.2374
+### Updated: Wed Jun  9 01:57:19 SAST 2021
+### Bad Bot Count: 612
 ###################################################
 ### Version Information ##
 
@@ -619,6 +619,8 @@ User-agent: Mister PiX
 Disallow:/
 User-agent: MJ12bot
 Disallow:/
+User-agent: Moblie Safari
+Disallow:/
 User-agent: Mojeek
 Disallow:/
 User-agent: Mojolicious
@@ -877,6 +879,10 @@ User-agent: SemrushBot
 Disallow:/
 User-agent: SentiBot
 Disallow:/
+User-agent: seobility
+Disallow:/
+User-agent: SeobilityBot
+Disallow:/
 User-agent: SEOkicks
 Disallow:/
 User-agent: SEOkicks-Robot
@@ -890,6 +896,8 @@ Disallow:/
 User-agent: seoscanners
 Disallow:/
 User-agent: SeoSiteCheckup
+Disallow:/
+User-agent: seostar
 Disallow:/
 User-agent: SEOstats
 Disallow:/

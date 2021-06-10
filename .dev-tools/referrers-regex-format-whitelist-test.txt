@@ -42,6 +42,7 @@
 "~*(?:\b)14b\.info(?:\b)" 	0;
 "~*(?:\b)1688\.com(?:\b)" 	0;
 "~*(?:\b)178evakuator178\.ru(?:\b)" 	0;
+"~*(?:\b)18ps\.ru(?:\b)" 	0;
 "~*(?:\b)1adult\.com(?:\b)" 	0;
 "~*(?:\b)1bet\.com(?:\b)" 	0;
 "~*(?:\b)1flag\.co\.za(?:\b)" 	0;
@@ -90,6 +91,7 @@
 "~*(?:\b)3w24\.com(?:\b)" 	0;
 "~*(?:\b)3weekdiet\.com(?:\b)" 	0;
 "~*(?:\b)3xforum\.ro(?:\b)" 	0;
+"~*(?:\b)404\.mn(?:\b)" 	0;
 "~*(?:\b)40cg\.com(?:\b)" 	0;
 "~*(?:\b)45en\.ru(?:\b)" 	0;
 "~*(?:\b)4inn\.ru(?:\b)" 	0;
@@ -322,6 +324,7 @@
 "~*(?:\b)alborzan\.com(?:\b)" 	0;
 "~*(?:\b)albumsuper\.info(?:\b)" 	0;
 "~*(?:\b)albuteroli\.com(?:\b)" 	0;
+"~*(?:\b)ald2014\.org(?:\b)" 	0;
 "~*(?:\b)alekseevec\.ru(?:\b)" 	0;
 "~*(?:\b)alert\-fdm\.xyz(?:\b)" 	0;
 "~*(?:\b)alert\-fjg\.xyz(?:\b)" 	0;
@@ -421,6 +424,7 @@
 "~*(?:\b)analytics\-ads\.xyz(?:\b)" 	0;
 "~*(?:\b)ananumous\.ru(?:\b)" 	0;
 "~*(?:\b)anapa\-inns\.ru(?:\b)" 	0;
+"~*(?:\b)anaseracresar\.tk(?:\b)" 	0;
 "~*(?:\b)anatomiy\.com(?:\b)" 	0;
 "~*(?:\b)andpolice\.com(?:\b)" 	0;
 "~*(?:\b)android\-style\.com(?:\b)" 	0;
@@ -569,6 +573,7 @@
 "~*(?:\b)asseenontvonline\.ru(?:\b)" 	0;
 "~*(?:\b)astana\.xxxkaz\.org(?:\b)" 	0;
 "~*(?:\b)astrochicks\.com(?:\b)" 	0;
+"~*(?:\b)atdedinotuho\.tk(?:\b)" 	0;
 "~*(?:\b)atelielembrancaqueencanta\.com\.br(?:\b)" 	0;
 "~*(?:\b)atlant\-auto\.info(?:\b)" 	0;
 "~*(?:\b)atlasvkusov\.ru(?:\b)" 	0;
@@ -579,6 +584,7 @@
 "~*(?:\b)atofilms\.com(?:\b)" 	0;
 "~*(?:\b)atout\-energie\-69\.com(?:\b)" 	0;
 "~*(?:\b)atovh\.local\-finders\.com(?:\b)" 	0;
+"~*(?:\b)aucoinhomes\.com(?:\b)" 	0;
 "~*(?:\b)audiobangout\.com(?:\b)" 	0;
 "~*(?:\b)audiofree\.ru(?:\b)" 	0;
 "~*(?:\b)ausergrubhof\.info(?:\b)" 	0;
@@ -752,6 +758,7 @@
 "~*(?:\b)beget\.tech(?:\b)" 	0;
 "~*(?:\b)belinka\.com\.ua(?:\b)" 	0;
 "~*(?:\b)belinvestdom\.by(?:\b)" 	0;
+"~*(?:\b)belsetirehafi\.tk(?:\b)" 	0;
 "~*(?:\b)belstaffstore\.online(?:\b)" 	0;
 "~*(?:\b)benchmarkcommunications\.co\.uk(?:\b)" 	0;
 "~*(?:\b)bensbargains\.net(?:\b)" 	0;
@@ -805,6 +812,7 @@
 "~*(?:\b)bet365\.com(?:\b)" 	0;
 "~*(?:\b)beta\.hotkeys\.com(?:\b)" 	0;
 "~*(?:\b)betonka\.pro(?:\b)" 	0;
+"~*(?:\b)betshuckclean\.com(?:\b)" 	0;
 "~*(?:\b)betterhdporn\.com(?:\b)" 	0;
 "~*(?:\b)betteroffers\.review(?:\b)" 	0;
 "~*(?:\b)betterscooter\.com(?:\b)" 	0;
@@ -838,6 +846,7 @@
 "~*(?:\b)billiard\-classic\.com\.ua(?:\b)" 	0;
 "~*(?:\b)bimatoprost\-careprost\.com(?:\b)" 	0;
 "~*(?:\b)bimatoprost\-careprost\.com\.ua(?:\b)" 	0;
+"~*(?:\b)bimmerpost\.com(?:\b)" 	0;
 "~*(?:\b)bin\-brokers\.com(?:\b)" 	0;
 "~*(?:\b)binaryoptionscops\.info(?:\b)" 	0;
 "~*(?:\b)bingo8888\.com(?:\b)" 	0;
@@ -869,6 +878,7 @@
 "~*(?:\b)biznesrealnost\.ru(?:\b)" 	0;
 "~*(?:\b)biznesschat\.net(?:\b)" 	0;
 "~*(?:\b)bizru\.info(?:\b)" 	0;
+"~*(?:\b)bizzliving\.com(?:\b)" 	0;
 "~*(?:\b)bjanshee\.ru(?:\b)" 	0;
 "~*(?:\b)bjetjt\.com(?:\b)" 	0;
 "~*(?:\b)bjgugu\.net\.ua(?:\b)" 	0;
@@ -918,6 +928,7 @@
 "~*(?:\b)bmw\.afora\.ru(?:\b)" 	0;
 "~*(?:\b)bmwhighperformers\.com(?:\b)" 	0;
 "~*(?:\b)bnt\-team\.com(?:\b)" 	0;
+"~*(?:\b)boanonihaca\.tk(?:\b)" 	0;
 "~*(?:\b)board\.f00d\.de(?:\b)" 	0;
 "~*(?:\b)boazpower\.com(?:\b)" 	0;
 "~*(?:\b)bobba\.dzaba\.com(?:\b)" 	0;
@@ -945,6 +956,7 @@
 "~*(?:\b)bonzybuddy\.com(?:\b)" 	0;
 "~*(?:\b)boo\-arts\.com(?:\b)" 	0;
 "~*(?:\b)boobsimge\.com(?:\b)" 	0;
+"~*(?:\b)book\-bets\.com(?:\b)" 	0;
 "~*(?:\b)bookhome\.info(?:\b)" 	0;
 "~*(?:\b)bookmaker\-bet\.com(?:\b)" 	0;
 "~*(?:\b)bookmark4you\.com(?:\b)" 	0;
@@ -971,6 +983,7 @@
 "~*(?:\b)brandbucket\.com(?:\b)" 	0;
 "~*(?:\b)brandedleadgeneration\.com(?:\b)" 	0;
 "~*(?:\b)brandehk\.dk(?:\b)" 	0;
+"~*(?:\b)brandimensions\.com(?:\b)" 	0;
 "~*(?:\b)brandov\.ru(?:\b)" 	0;
 "~*(?:\b)brateg\.xyz(?:\b)" 	0;
 "~*(?:\b)bravegirlsclub\.com(?:\b)" 	0;
@@ -1006,6 +1019,7 @@
 "~*(?:\b)budpost\.com\.ua(?:\b)" 	0;
 "~*(?:\b)buehne\-fuer\-menschenrechte\.de(?:\b)" 	0;
 "~*(?:\b)bugof\.gq(?:\b)" 	0;
+"~*(?:\b)bugshoot\.cn(?:\b)" 	0;
 "~*(?:\b)buigas\.00it\.com(?:\b)" 	0;
 "~*(?:\b)builtwith\.com(?:\b)" 	0;
 "~*(?:\b)buketeg\.xyz(?:\b)" 	0;
@@ -1024,6 +1038,7 @@
 "~*(?:\b)burn\-fat\.ga(?:\b)" 	0;
 "~*(?:\b)buron\.pw(?:\b)" 	0;
 "~*(?:\b)bus\-offer\.com(?:\b)" 	0;
+"~*(?:\b)buscarfoto\.com(?:\b)" 	0;
 "~*(?:\b)businescoop\.men(?:\b)" 	0;
 "~*(?:\b)businesn\.men(?:\b)" 	0;
 "~*(?:\b)business\-made\-fun\.com(?:\b)" 	0;
@@ -1193,6 +1208,7 @@
 "~*(?:\b)ceotrk\.com(?:\b)" 	0;
 "~*(?:\b)cercacamion\.it(?:\b)" 	0;
 "~*(?:\b)cerev\.info(?:\b)" 	0;
+"~*(?:\b)certifywebsite\.win(?:\b)" 	0;
 "~*(?:\b)cete\.ru(?:\b)" 	0;
 "~*(?:\b)cezartabac\.ro(?:\b)" 	0;
 "~*(?:\b)cfacarrosserie74\.com(?:\b)" 	0;
@@ -1468,6 +1484,7 @@
 "~*(?:\b)courtshipgift\.com(?:\b)" 	0;
 "~*(?:\b)covadhosting\.biz(?:\b)" 	0;
 "~*(?:\b)covetnica\.com(?:\b)" 	0;
+"~*(?:\b)covid\-schutzmasken\.de(?:\b)" 	0;
 "~*(?:\b)cowblog\.fr(?:\b)" 	0;
 "~*(?:\b)cowlmash\.com(?:\b)" 	0;
 "~*(?:\b)cpabegins\.ru(?:\b)" 	0;
@@ -1518,6 +1535,7 @@
 "~*(?:\b)customerpromos\-a\.akamaihd\.net(?:\b)" 	0;
 "~*(?:\b)customsua\.com\.ua(?:\b)" 	0;
 "~*(?:\b)cutalltheshit\.com(?:\b)" 	0;
+"~*(?:\b)cutt\.us(?:\b)" 	0;
 "~*(?:\b)cv\.wallhade\.co(?:\b)" 	0;
 "~*(?:\b)cvety24\.by(?:\b)" 	0;
 "~*(?:\b)cwetochki\.ru(?:\b)" 	0;
@@ -1751,6 +1769,7 @@
 "~*(?:\b)doublepimp\.com(?:\b)" 	0;
 "~*(?:\b)download\-of\-the\-warez\.blogspot\.com(?:\b)" 	0;
 "~*(?:\b)download\-wallpaper\.net(?:\b)" 	0;
+"~*(?:\b)download\-walpaperhd\.blogspot\.com(?:\b)" 	0;
 "~*(?:\b)downloaddy\.net(?:\b)" 	0;
 "~*(?:\b)downloadeer\.net(?:\b)" 	0;
 "~*(?:\b)downloader12\.ru(?:\b)" 	0;
@@ -1786,6 +1805,7 @@
 "~*(?:\b)dstroy\.su(?:\b)" 	0;
 "~*(?:\b)dtm\-spain\.com(?:\b)" 	0;
 "~*(?:\b)dtnlyss\.com(?:\b)" 	0;
+"~*(?:\b)duawitchrarato\.tk(?:\b)" 	0;
 "~*(?:\b)dumpsmania24\.com(?:\b)" 	0;
 "~*(?:\b)dumuelave\.xyz(?:\b)" 	0;
 "~*(?:\b)duplicashapp\.com(?:\b)" 	0;
@@ -1810,6 +1830,7 @@
 "~*(?:\b)e\-poker\-2005\.com(?:\b)" 	0;
 "~*(?:\b)e2click\.com(?:\b)" 	0;
 "~*(?:\b)e705\.net(?:\b)" 	0;
+"~*(?:\b)e90post\.com(?:\b)" 	0;
 "~*(?:\b)eachdayisagift\.review(?:\b)" 	0;
 "~*(?:\b)eandsgallery\.com(?:\b)" 	0;
 "~*(?:\b)eaplay\.ru(?:\b)" 	0;
@@ -2074,6 +2095,7 @@
 "~*(?:\b)failingmarriege\.blogspot\.com(?:\b)" 	0;
 "~*(?:\b)faithe\.top(?:\b)" 	0;
 "~*(?:\b)fakehandbags\.xyz(?:\b)" 	0;
+"~*(?:\b)falcon\-images\.blogspot\.com(?:\b)" 	0;
 "~*(?:\b)falcoware\.com(?:\b)" 	0;
 "~*(?:\b)falllow\.gq(?:\b)" 	0;
 "~*(?:\b)falopicm\.pw(?:\b)" 	0;
@@ -2098,6 +2120,7 @@
 "~*(?:\b)fashion\.stellaconstance\.co(?:\b)" 	0;
 "~*(?:\b)fashionavenuegame\.com(?:\b)" 	0;
 "~*(?:\b)fashionindeed\.ml(?:\b)" 	0;
+"~*(?:\b)fast\-torrent\.ru(?:\b)" 	0;
 "~*(?:\b)fast\-wordpress\-start\.com(?:\b)" 	0;
 "~*(?:\b)fastcrawl\.com(?:\b)" 	0;
 "~*(?:\b)fastfixing\.tech(?:\b)" 	0;
@@ -2140,6 +2163,7 @@
 "~*(?:\b)fickluder69\.com(?:\b)" 	0;
 "~*(?:\b)fidelityfunding\.com(?:\b)" 	0;
 "~*(?:\b)fifa\-coins\.online(?:\b)" 	0;
+"~*(?:\b)fighrofacciufreesig\.ga(?:\b)" 	0;
 "~*(?:\b)figuringmoneyout\.com(?:\b)" 	0;
 "~*(?:\b)fikasound\.tk(?:\b)" 	0;
 "~*(?:\b)fil\.ru(?:\b)" 	0;
@@ -2237,6 +2261,7 @@
 "~*(?:\b)forms\-mtm\.ru(?:\b)" 	0;
 "~*(?:\b)formseo\.com(?:\b)" 	0;
 "~*(?:\b)formulaantiuban\.com(?:\b)" 	0;
+"~*(?:\b)formulaf1results\.blogspot\.com(?:\b)" 	0;
 "~*(?:\b)formularz\-konkurs\.tk(?:\b)" 	0;
 "~*(?:\b)forodvd\.com(?:\b)" 	0;
 "~*(?:\b)forpackningsutveckling\.se(?:\b)" 	0;
@@ -2254,6 +2279,7 @@
 "~*(?:\b)forumprofi\.de(?:\b)" 	0;
 "~*(?:\b)forums\.d2jsp\.org(?:\b)" 	0;
 "~*(?:\b)forums\.toucharcade\.com(?:\b)" 	0;
+"~*(?:\b)forzeronly\.com(?:\b)" 	0;
 "~*(?:\b)foto\-basa\.com(?:\b)" 	0;
 "~*(?:\b)foto\-sisek\.porngalleries\.top(?:\b)" 	0;
 "~*(?:\b)foto\-telok\.net(?:\b)" 	0;
@@ -2295,6 +2321,7 @@
 "~*(?:\b)free\-video\-tool\.com(?:\b)" 	0;
 "~*(?:\b)free411games\.com(?:\b)" 	0;
 "~*(?:\b)freecamdollars\.com(?:\b)" 	0;
+"~*(?:\b)freefoto\.ca(?:\b)" 	0;
 "~*(?:\b)freegamesplay\.online(?:\b)" 	0;
 "~*(?:\b)freejabs\.com(?:\b)" 	0;
 "~*(?:\b)freelifetimefuckbook\.com(?:\b)" 	0;
@@ -2309,6 +2336,7 @@
 "~*(?:\b)freetangodownload\.com(?:\b)" 	0;
 "~*(?:\b)freeuploader\.com(?:\b)" 	0;
 "~*(?:\b)freeuploader\.ml(?:\b)" 	0;
+"~*(?:\b)freevpn\.space(?:\b)" 	0;
 "~*(?:\b)freewareseek\.com(?:\b)" 	0;
 "~*(?:\b)freewebs\.com(?:\b)" 	0;
 "~*(?:\b)freewhatsappload\.com(?:\b)" 	0;
@@ -2355,6 +2383,7 @@
 "~*(?:\b)fx\-brokers\-review\.com(?:\b)" 	0;
 "~*(?:\b)fxgallery\.com(?:\b)" 	0;
 "~*(?:\b)fxtips\.ru(?:\b)" 	0;
+"~*(?:\b)fxund\.us(?:\b)" 	0;
 "~*(?:\b)fyl\.com\.ru(?:\b)" 	0;
 "~*(?:\b)fym\.com\.ru(?:\b)" 	0;
 "~*(?:\b)fyxabomiw\.ru(?:\b)" 	0;
@@ -2575,6 +2604,7 @@
 "~*(?:\b)greatdealshop\.com(?:\b)" 	0;
 "~*(?:\b)greatfind\-a\.akamaihd\.net(?:\b)" 	0;
 "~*(?:\b)greatgrace\.ru(?:\b)" 	0;
+"~*(?:\b)greatidea\.marketing(?:\b)" 	0;
 "~*(?:\b)greatzip\.com(?:\b)" 	0;
 "~*(?:\b)green\-tea\.tv(?:\b)" 	0;
 "~*(?:\b)greendream\.com\.ua(?:\b)" 	0;
@@ -2615,6 +2645,7 @@
 "~*(?:\b)guildebzh\.info(?:\b)" 	0;
 "~*(?:\b)guitar\-master\.org(?:\b)" 	0;
 "~*(?:\b)gungamesz\.com(?:\b)" 	0;
+"~*(?:\b)gunsvicceadadebt\.tk(?:\b)" 	0;
 "~*(?:\b)guod\.me(?:\b)" 	0;
 "~*(?:\b)guruofcasino\.com(?:\b)" 	0;
 "~*(?:\b)gwagka\.com(?:\b)" 	0;
@@ -2768,6 +2799,7 @@
 "~*(?:\b)hotblog\.top(?:\b)" 	0;
 "~*(?:\b)hotblognetwork\.com(?:\b)" 	0;
 "~*(?:\b)hotchatdate\.com(?:\b)" 	0;
+"~*(?:\b)hotcore\.info(?:\b)" 	0;
 "~*(?:\b)hotdl\.in(?:\b)" 	0;
 "~*(?:\b)hotel\-mkad\.ru(?:\b)" 	0;
 "~*(?:\b)hotelcrocenzi\.sm(?:\b)" 	0;
@@ -2855,12 +2887,14 @@
 "~*(?:\b)ifirestarter\.ru(?:\b)" 	0;
 "~*(?:\b)iflycapetown\.co\.za(?:\b)" 	0;
 "~*(?:\b)ifmo\.ru(?:\b)" 	0;
+"~*(?:\b)iframe\-toloka\.com(?:\b)" 	0;
 "~*(?:\b)igadgetsworld\.com(?:\b)" 	0;
 "~*(?:\b)igithab\.com(?:\b)" 	0;
 "~*(?:\b)igrovyeavtomaty777\.ru(?:\b)" 	0;
 "~*(?:\b)igru\-xbox\.net(?:\b)" 	0;
 "~*(?:\b)igtools\.club(?:\b)" 	0;
 "~*(?:\b)ihc2015\.info(?:\b)" 	0;
+"~*(?:\b)ihtec2019\.org(?:\b)" 	0;
 "~*(?:\b)iideaidekonkatu\.info(?:\b)" 	0;
 "~*(?:\b)iinstalll\-fii1leis\.jus0wil\.pp\.ua(?:\b)" 	0;
 "~*(?:\b)ikearugs\.xyz(?:\b)" 	0;
@@ -2884,6 +2918,7 @@
 "~*(?:\b)images\-free\.net(?:\b)" 	0;
 "~*(?:\b)images\-graphics\-pics\.com(?:\b)" 	0;
 "~*(?:\b)images\.gyffu\.com(?:\b)" 	0;
+"~*(?:\b)imagez\.co(?:\b)" 	0;
 "~*(?:\b)imagine\-ex\.co(?:\b)" 	0;
 "~*(?:\b)imagui\.eu(?:\b)" 	0;
 "~*(?:\b)imediadesk\.com(?:\b)" 	0;
@@ -3059,6 +3094,7 @@
 "~*(?:\b)jasonpartington\.com(?:\b)" 	0;
 "~*(?:\b)jav\-fetish\.com(?:\b)" 	0;
 "~*(?:\b)jav\-fetish\.site(?:\b)" 	0;
+"~*(?:\b)jav\-idol\.com(?:\b)" 	0;
 "~*(?:\b)jav\-way\.site(?:\b)" 	0;
 "~*(?:\b)javatex\.co\.id(?:\b)" 	0;
 "~*(?:\b)javcoast\.com(?:\b)" 	0;
@@ -3091,11 +3127,14 @@
 "~*(?:\b)jimmychoosale\.online(?:\b)" 	0;
 "~*(?:\b)jjbabskoe\.ru(?:\b)" 	0;
 "~*(?:\b)jmat\.cn(?:\b)" 	0;
+"~*(?:\b)jo24news\.com(?:\b)" 	0;
 "~*(?:\b)job\.icivil\.ir(?:\b)" 	0;
 "~*(?:\b)jobgirl24\.ru(?:\b)" 	0;
 "~*(?:\b)jobmarket\.com\.ua(?:\b)" 	0;
 "~*(?:\b)joessmogtestonly\.com(?:\b)" 	0;
+"~*(?:\b)jofucipiku\.tk(?:\b)" 	0;
 "~*(?:\b)johannesburgsingles\.co\.za(?:\b)" 	0;
+"~*(?:\b)johnnyhaley\.top(?:\b)" 	0;
 "~*(?:\b)johnrobertsoninc\.com(?:\b)" 	0;
 "~*(?:\b)joingames\.org(?:\b)" 	0;
 "~*(?:\b)jolic2\.com(?:\b)" 	0;
@@ -3105,6 +3144,7 @@
 "~*(?:\b)journeydownthescale\.info(?:\b)" 	0;
 "~*(?:\b)jovencitas\.gratis(?:\b)" 	0;
 "~*(?:\b)joy\-penguin\.com(?:\b)" 	0;
+"~*(?:\b)joyceblog\.top(?:\b)" 	0;
 "~*(?:\b)jpcycles\.com(?:\b)" 	0;
 "~*(?:\b)jrcigars\.com(?:\b)" 	0;
 "~*(?:\b)jrpmakati\.com(?:\b)" 	0;
@@ -3112,6 +3152,7 @@
 "~*(?:\b)juliaworld\.net(?:\b)" 	0;
 "~*(?:\b)jumptap\.com(?:\b)" 	0;
 "~*(?:\b)junglenet\-a\.akamaihd\.net(?:\b)" 	0;
+"~*(?:\b)junketjuice\.blogspot\.com(?:\b)" 	0;
 "~*(?:\b)jurajskie\.info(?:\b)" 	0;
 "~*(?:\b)jus0wil\.pp\.ua(?:\b)" 	0;
 "~*(?:\b)justbcause\.com(?:\b)" 	0;
@@ -3174,6 +3215,7 @@
 "~*(?:\b)keyhantercume\.com(?:\b)" 	0;
 "~*(?:\b)keywesthideaways\.co(?:\b)" 	0;
 "~*(?:\b)keyword\-suggestions\.com(?:\b)" 	0;
+"~*(?:\b)keywordbasket\.com(?:\b)" 	0;
 "~*(?:\b)keywordblocks\.com(?:\b)" 	0;
 "~*(?:\b)keywordglobal\.co\.za(?:\b)" 	0;
 "~*(?:\b)keywordhouse\.com(?:\b)" 	0;
@@ -3182,6 +3224,7 @@
 "~*(?:\b)keywords\-monitoring\-your\-success\.com(?:\b)" 	0;
 "~*(?:\b)keywordsdoctor\.com(?:\b)" 	0;
 "~*(?:\b)keywordsking\.com(?:\b)" 	0;
+"~*(?:\b)keywordspay\.com(?:\b)" 	0;
 "~*(?:\b)keywordsuggest\.org(?:\b)" 	0;
 "~*(?:\b)keywordsuggests\.com(?:\b)" 	0;
 "~*(?:\b)keywordteam\.net(?:\b)" 	0;
@@ -3452,6 +3495,7 @@
 "~*(?:\b)liran\-locks\.com(?:\b)" 	0;
 "~*(?:\b)lirunet\.ru(?:\b)" 	0;
 "~*(?:\b)lisque\.batcave\.net(?:\b)" 	0;
+"~*(?:\b)listiseltemournlan\.gq(?:\b)" 	0;
 "~*(?:\b)littleberry\.ru(?:\b)" 	0;
 "~*(?:\b)littlecity\.ch(?:\b)" 	0;
 "~*(?:\b)littlesexdolls\.com(?:\b)" 	0;
@@ -3467,6 +3511,7 @@
 "~*(?:\b)livejasmin\.com(?:\b)" 	0;
 "~*(?:\b)liver\-chintai\.org(?:\b)" 	0;
 "~*(?:\b)liverpool\.gsofootball\.com(?:\b)" 	0;
+"~*(?:\b)livesex\-amateure\.info(?:\b)" 	0;
 "~*(?:\b)liveshoppersmac\.com(?:\b)" 	0;
 "~*(?:\b)livetsomudvekslingstudent\.bloggersdelight\.dk(?:\b)" 	0;
 "~*(?:\b)liveu\.infoteka\.hu(?:\b)" 	0;
@@ -3525,6 +3570,7 @@
 "~*(?:\b)lovi\-moment\.com\.ua(?:\b)" 	0;
 "~*(?:\b)low\-format\.ru(?:\b)" 	0;
 "~*(?:\b)lowephotos\.info(?:\b)" 	0;
+"~*(?:\b)lrac\.info(?:\b)" 	0;
 "~*(?:\b)lsex\.xyz(?:\b)" 	0;
 "~*(?:\b)lsp\-awak\-perikanan\.com(?:\b)" 	0;
 "~*(?:\b)ltvperf\.com(?:\b)" 	0;
@@ -3695,6 +3741,7 @@
 "~*(?:\b)mega\-bony2017\.pl(?:\b)" 	0;
 "~*(?:\b)mega\-polis\.biz\.ua(?:\b)" 	0;
 "~*(?:\b)megaapteka\.ru(?:\b)" 	0;
+"~*(?:\b)megagrabber\.ru(?:\b)" 	0;
 "~*(?:\b)megahdporno\.net(?:\b)" 	0;
 "~*(?:\b)megaindex\.ru(?:\b)" 	0;
 "~*(?:\b)megakino\.net(?:\b)" 	0;
@@ -3720,6 +3767,8 @@
 "~*(?:\b)metarip\.ru(?:\b)" 	0;
 "~*(?:\b)metascephe\.com(?:\b)" 	0;
 "~*(?:\b)metaxalonevstizanidine\.blogspot\.com(?:\b)" 	0;
+"~*(?:\b)meteocast\.net(?:\b)" 	0;
+"~*(?:\b)meteostate\.com(?:\b)" 	0;
 "~*(?:\b)methodsmarketing\.com(?:\b)" 	0;
 "~*(?:\b)mex\-annushka\.ru(?:\b)" 	0;
 "~*(?:\b)mexicosleevegastrectomy\.com(?:\b)" 	0;
@@ -3752,6 +3801,7 @@
 "~*(?:\b)minegam\.com(?:\b)" 	0;
 "~*(?:\b)minet\.club(?:\b)" 	0;
 "~*(?:\b)minharevisao\.com(?:\b)" 	0;
+"~*(?:\b)mini\-modus\.ru(?:\b)" 	0;
 "~*(?:\b)mini\.7zap\.com(?:\b)" 	0;
 "~*(?:\b)miniads\.ca(?:\b)" 	0;
 "~*(?:\b)miniature\.io(?:\b)" 	0;
@@ -3875,6 +3925,7 @@
 "~*(?:\b)moviemail\-online\.co\.uk(?:\b)" 	0;
 "~*(?:\b)movies\-in\-theaters\.net(?:\b)" 	0;
 "~*(?:\b)moviezbonkerssk\.cf(?:\b)" 	0;
+"~*(?:\b)movpod\.in(?:\b)" 	0;
 "~*(?:\b)mowser\.com(?:\b)" 	0;
 "~*(?:\b)moxo\.com(?:\b)" 	0;
 "~*(?:\b)moyakuhnia\.ru(?:\b)" 	0;
@@ -3966,6 +4017,7 @@
 "~*(?:\b)mylesosibirsk\.ru(?:\b)" 	0;
 "~*(?:\b)mylida\.org(?:\b)" 	0;
 "~*(?:\b)myliveblog\.ru(?:\b)" 	0;
+"~*(?:\b)mylovelibrabry\.com(?:\b)" 	0;
 "~*(?:\b)mymercy\.info(?:\b)" 	0;
 "~*(?:\b)mymobilemoneypages\.com(?:\b)" 	0;
 "~*(?:\b)myonigroup\.com(?:\b)" 	0;
@@ -3976,6 +4028,7 @@
 "~*(?:\b)myplaycity\.com(?:\b)" 	0;
 "~*(?:\b)mypornfree\.ru(?:\b)" 	0;
 "~*(?:\b)myprintscreen\.com(?:\b)" 	0;
+"~*(?:\b)myra\.top(?:\b)" 	0;
 "~*(?:\b)myseoconsultant\.com(?:\b)" 	0;
 "~*(?:\b)mysex21\.com(?:\b)" 	0;
 "~*(?:\b)mysexpics\.ru(?:\b)" 	0;
@@ -3994,8 +4047,10 @@
 "~*(?:\b)naj\-filmy24\.pl(?:\b)" 	0;
 "~*(?:\b)najaden\.no(?:\b)" 	0;
 "~*(?:\b)nakozhe\.com(?:\b)" 	0;
+"~*(?:\b)nakrutka\.cc(?:\b)" 	0;
 "~*(?:\b)nalogovyy\-kodeks\.ru(?:\b)" 	0;
 "~*(?:\b)nalogovyykodeks\.ru(?:\b)" 	0;
+"~*(?:\b)namecrumilchlet\.tk(?:\b)" 	0;
 "~*(?:\b)namenectar\.com(?:\b)" 	0;
 "~*(?:\b)napalm51\.nut\.cc(?:\b)" 	0;
 "~*(?:\b)naperehresti\.info(?:\b)" 	0;
@@ -4083,6 +4138,7 @@
 "~*(?:\b)ningessaybe\.me(?:\b)" 	0;
 "~*(?:\b)nippon\-bearings\.ru(?:\b)" 	0;
 "~*(?:\b)niroo\.info(?:\b)" 	0;
+"~*(?:\b)nisuturnetdgu\.tk(?:\b)" 	0;
 "~*(?:\b)njkmznnb\.ru(?:\b)" 	0;
 "~*(?:\b)njpalletremoval\.com(?:\b)" 	0;
 "~*(?:\b)nl\.netlog\.com(?:\b)" 	0;
@@ -4204,12 +4260,14 @@
 "~*(?:\b)olgacvetmet\.com(?:\b)" 	0;
 "~*(?:\b)olvanto\.ru(?:\b)" 	0;
 "~*(?:\b)olympescort\.com(?:\b)" 	0;
+"~*(?:\b)omgtnc\.com(?:\b)" 	0;
 "~*(?:\b)omoikiri\-japan\.ru(?:\b)" 	0;
 "~*(?:\b)omsk\.xrus\.org(?:\b)" 	0;
 "~*(?:\b)onblastblog\.online(?:\b)" 	0;
 "~*(?:\b)onclickpredictiv\.com(?:\b)" 	0;
 "~*(?:\b)onclkads\.com(?:\b)" 	0;
 "~*(?:\b)one\-gear\.com(?:\b)" 	0;
+"~*(?:\b)one\.net\.in(?:\b)" 	0;
 "~*(?:\b)oneclickfiles\.com(?:\b)" 	0;
 "~*(?:\b)onefilms\.net(?:\b)" 	0;
 "~*(?:\b)onemactrckr\.com(?:\b)" 	0;
@@ -4309,12 +4367,14 @@
 "~*(?:\b)ozas\.net(?:\b)" 	0;
 "~*(?:\b)ozoz\.it(?:\b)" 	0;
 "~*(?:\b)p\-business\.ru(?:\b)" 	0;
+"~*(?:\b)paccohichetoti\.ml(?:\b)" 	0;
 "~*(?:\b)paceform\.com(?:\b)" 	0;
 "~*(?:\b)pacificair\.com(?:\b)" 	0;
 "~*(?:\b)paclitor\.com(?:\b)" 	0;
 "~*(?:\b)page2rss\.com(?:\b)" 	0;
 "~*(?:\b)pagesense\.com(?:\b)" 	0;
 "~*(?:\b)paidonlinesites\.com(?:\b)" 	0;
+"~*(?:\b)paighambot\.com(?:\b)" 	0;
 "~*(?:\b)painting\-planet\.com(?:\b)" 	0;
 "~*(?:\b)paintingplanet\.ru(?:\b)" 	0;
 "~*(?:\b)paleohub\.info(?:\b)" 	0;
@@ -4398,6 +4458,7 @@
 "~*(?:\b)perm\.xrus\.org(?:\b)" 	0;
 "~*(?:\b)perosan\.com(?:\b)" 	0;
 "~*(?:\b)perso\.wanadoo\.es(?:\b)" 	0;
+"~*(?:\b)pertlocogasilk\.tk(?:\b)" 	0;
 "~*(?:\b)pestomou\.info(?:\b)" 	0;
 "~*(?:\b)petedrummond\.com(?:\b)" 	0;
 "~*(?:\b)petitions\.whitehouse\.gov(?:\b)" 	0;
@@ -4597,6 +4658,7 @@
 "~*(?:\b)pornosexrolik\.com(?:\b)" 	0;
 "~*(?:\b)pornoslive\.net(?:\b)" 	0;
 "~*(?:\b)pornosmola\.info(?:\b)" 	0;
+"~*(?:\b)pornosok\.ru(?:\b)" 	0;
 "~*(?:\b)pornoted\.com(?:\b)" 	0;
 "~*(?:\b)pornotubexxx\.name(?:\b)" 	0;
 "~*(?:\b)pornotubs\.com(?:\b)" 	0;
@@ -4823,6 +4885,7 @@
 "~*(?:\b)rasteniya\-vs\-zombi\.ru(?:\b)" 	0;
 "~*(?:\b)ratemodels\.net(?:\b)" 	0;
 "~*(?:\b)rating\-bestcasino\.com(?:\b)" 	0;
+"~*(?:\b)rating\-casino2021\.ru(?:\b)" 	0;
 "~*(?:\b)razamicroelectronics\.com(?:\b)" 	0;
 "~*(?:\b)razleton\.com(?:\b)" 	0;
 "~*(?:\b)razorweb\-a\.akamaihd\.net(?:\b)" 	0;
@@ -4872,6 +4935,7 @@
 "~*(?:\b)reklama\-i\-rabota\.ru(?:\b)" 	0;
 "~*(?:\b)reklama1\.ru(?:\b)" 	0;
 "~*(?:\b)reklamuss\.ru(?:\b)" 	0;
+"~*(?:\b)relatodelpresente\.com\.ar(?:\b)" 	0;
 "~*(?:\b)relax\.ru(?:\b)" 	0;
 "~*(?:\b)relayblog\.com(?:\b)" 	0;
 "~*(?:\b)remedyotc\.com(?:\b)" 	0;
@@ -4890,6 +4954,7 @@
 "~*(?:\b)renecaovilla\.online(?:\b)" 	0;
 "~*(?:\b)renecaovillasale\.online(?:\b)" 	0;
 "~*(?:\b)renewablewealth\.com(?:\b)" 	0;
+"~*(?:\b)renhacklids\.tk(?:\b)" 	0;
 "~*(?:\b)rennlist\.com(?:\b)" 	0;
 "~*(?:\b)rent2spb\.ru(?:\b)" 	0;
 "~*(?:\b)rentalcarnavi\.info(?:\b)" 	0;
@@ -4935,6 +5000,7 @@
 "~*(?:\b)ringporno\.com(?:\b)" 	0;
 "~*(?:\b)ringtonepartner\.com(?:\b)" 	0;
 "~*(?:\b)rique\.host\.sk(?:\b)" 	0;
+"~*(?:\b)riralmolamsaca\.tk(?:\b)" 	0;
 "~*(?:\b)risparmiocasa\.bz\.it(?:\b)" 	0;
 "~*(?:\b)ritlweb\.com(?:\b)" 	0;
 "~*(?:\b)rixpix\.ru(?:\b)" 	0;
@@ -4942,6 +5008,8 @@
 "~*(?:\b)rniaeba\.ga(?:\b)" 	0;
 "~*(?:\b)robertefuller\.com(?:\b)" 	0;
 "~*(?:\b)robot\-forex\.biz(?:\b)" 	0;
+"~*(?:\b)robotixix\.com(?:\b)" 	0;
+"~*(?:\b)rocis\.site(?:\b)" 	0;
 "~*(?:\b)rock\-cafe\.info(?:\b)" 	0;
 "~*(?:\b)rocketchange\.ru(?:\b)" 	0;
 "~*(?:\b)rockingclicks\.com(?:\b)" 	0;
@@ -5051,6 +5119,7 @@
 "~*(?:\b)sanyuprojects\.com(?:\b)" 	0;
 "~*(?:\b)sape\.top(?:\b)" 	0;
 "~*(?:\b)sarafangel\.ru(?:\b)" 	0;
+"~*(?:\b)sarahmilne\.top(?:\b)" 	0;
 "~*(?:\b)saratov\.xrus\.org(?:\b)" 	0;
 "~*(?:\b)sardinie\.us(?:\b)" 	0;
 "~*(?:\b)sarf3omlat\.com(?:\b)" 	0;
@@ -5116,6 +5185,7 @@
 "~*(?:\b)scat\.porn(?:\b)" 	0;
 "~*(?:\b)scenarii\-1\-sentyabrya\.uroki\.org\.ua(?:\b)" 	0;
 "~*(?:\b)scenicmissouri\.us(?:\b)" 	0;
+"~*(?:\b)schalke04fc\.info(?:\b)" 	0;
 "~*(?:\b)schlampen\-treffen\.com(?:\b)" 	0;
 "~*(?:\b)school\-diplomat\.ru(?:\b)" 	0;
 "~*(?:\b)schoolfiles\.net(?:\b)" 	0;
@@ -5194,6 +5264,7 @@
 "~*(?:\b)seo\-traffic\-ranking\.info(?:\b)" 	0;
 "~*(?:\b)seo18\.su(?:\b)" 	0;
 "~*(?:\b)seoanalyses\.com(?:\b)" 	0;
+"~*(?:\b)seobility\.net(?:\b)" 	0;
 "~*(?:\b)seoboxes\.com(?:\b)" 	0;
 "~*(?:\b)seocdvig\.ru(?:\b)" 	0;
 "~*(?:\b)seocheckupx\.com(?:\b)" 	0;
@@ -5255,6 +5326,7 @@
 "~*(?:\b)sexkontakte\-seite\.com(?:\b)" 	0;
 "~*(?:\b)sexkontakteao\.info(?:\b)" 	0;
 "~*(?:\b)sexkrasivo\.net(?:\b)" 	0;
+"~*(?:\b)sexkvartal\.com(?:\b)" 	0;
 "~*(?:\b)sexobzor\.info(?:\b)" 	0;
 "~*(?:\b)sexpartygirls\.net(?:\b)" 	0;
 "~*(?:\b)sexphoto\.site(?:\b)" 	0;
@@ -5306,6 +5378,7 @@
 "~*(?:\b)ship\-marvel\.co\.ua(?:\b)" 	0;
 "~*(?:\b)shisha\-swag\.de(?:\b)" 	0;
 "~*(?:\b)shitmovs\.com(?:\b)" 	0;
+"~*(?:\b)shitting\.pro(?:\b)" 	0;
 "~*(?:\b)shivafurnishings\.com(?:\b)" 	0;
 "~*(?:\b)shlyahten\.ru(?:\b)" 	0;
 "~*(?:\b)shmetall\.com\.ua(?:\b)" 	0;
@@ -5416,6 +5489,7 @@
 "~*(?:\b)slkrm\.ru(?:\b)" 	0;
 "~*(?:\b)slomm\.ru(?:\b)" 	0;
 "~*(?:\b)slonechka\.ru(?:\b)" 	0;
+"~*(?:\b)sloopyjoes\.com(?:\b)" 	0;
 "~*(?:\b)slowmac\.tech(?:\b)" 	0;
 "~*(?:\b)slowmacfaster\.trade(?:\b)" 	0;
 "~*(?:\b)sluganarodu\.ru(?:\b)" 	0;
@@ -5621,6 +5695,7 @@
 "~*(?:\b)strana\-krasoty\.ru(?:\b)" 	0;
 "~*(?:\b)strana\-solnca\.ru(?:\b)" 	0;
 "~*(?:\b)strangeduckfilms\.com(?:\b)" 	0;
+"~*(?:\b)streamin\.to(?:\b)" 	0;
 "~*(?:\b)streetfire\.net(?:\b)" 	0;
 "~*(?:\b)streetfooduncovered\.com(?:\b)" 	0;
 "~*(?:\b)streha\-metalko\.si(?:\b)" 	0;
@@ -5653,6 +5728,7 @@
 "~*(?:\b)subj\.ukr\-lit\.com(?:\b)" 	0;
 "~*(?:\b)success\-seo\.com(?:\b)" 	0;
 "~*(?:\b)suchenindeutschland\.com(?:\b)" 	0;
+"~*(?:\b)sucsesofinspiration\.com(?:\b)" 	0;
 "~*(?:\b)sudexpert66\.ru(?:\b)" 	0;
 "~*(?:\b)sugarkun\.com(?:\b)" 	0;
 "~*(?:\b)sugarlyflex\.pw(?:\b)" 	0;
@@ -5664,6 +5740,7 @@
 "~*(?:\b)summerlinhomes411\.info(?:\b)" 	0;
 "~*(?:\b)sumo\.com(?:\b)" 	0;
 "~*(?:\b)sundrugstore\.com(?:\b)" 	0;
+"~*(?:\b)sunflowerdrawingpaintings\.blogspot\.com(?:\b)" 	0;
 "~*(?:\b)superfish\.com(?:\b)" 	0;
 "~*(?:\b)superiends\.org(?:\b)" 	0;
 "~*(?:\b)superinterstitial\.com(?:\b)" 	0;
@@ -5765,6 +5842,7 @@
 "~*(?:\b)tedy\.su(?:\b)" 	0;
 "~*(?:\b)teenbbw\.yopoint\.in(?:\b)" 	0;
 "~*(?:\b)teencastingporn\.com(?:\b)" 	0;
+"~*(?:\b)teenforporn\.com(?:\b)" 	0;
 "~*(?:\b)teenfuck\.tv(?:\b)" 	0;
 "~*(?:\b)teenporn18\.net(?:\b)" 	0;
 "~*(?:\b)teesdaleflyballclub\.co\.uk(?:\b)" 	0;
@@ -5787,6 +5865,7 @@
 "~*(?:\b)terraclicks\.com(?:\b)" 	0;
 "~*(?:\b)terrafootwear\.us(?:\b)" 	0;
 "~*(?:\b)teslathemes\.com(?:\b)" 	0;
+"~*(?:\b)testbotprocessor44\.com(?:\b)" 	0;
 "~*(?:\b)testingads\.pro(?:\b)" 	0;
 "~*(?:\b)tetracsaudi\.com(?:\b)" 	0;
 "~*(?:\b)texbaza\.by(?:\b)" 	0;
@@ -5959,6 +6038,7 @@
 "~*(?:\b)topcasinoratings\.ru(?:\b)" 	0;
 "~*(?:\b)topclickguru\.com(?:\b)" 	0;
 "~*(?:\b)topdownloads\.ru(?:\b)" 	0;
+"~*(?:\b)topflownews\.com(?:\b)" 	0;
 "~*(?:\b)topkarkas\.com(?:\b)" 	0;
 "~*(?:\b)topmira\.com(?:\b)" 	0;
 "~*(?:\b)topquality\.cf(?:\b)" 	0;
@@ -6018,6 +6098,7 @@
 "~*(?:\b)trafficmp\.com(?:\b)" 	0;
 "~*(?:\b)trafficnetzwerk\.de(?:\b)" 	0;
 "~*(?:\b)trafficreceiver\.club(?:\b)" 	0;
+"~*(?:\b)trafficshaper\.com(?:\b)" 	0;
 "~*(?:\b)trafficstars\.com(?:\b)" 	0;
 "~*(?:\b)traffictrade\.life(?:\b)" 	0;
 "~*(?:\b)traffique\.net(?:\b)" 	0;
@@ -6034,6 +6115,7 @@
 "~*(?:\b)tri\-slona\.org(?:\b)" 	0;
 "~*(?:\b)trichizobswiv\.agddns\.net(?:\b)" 	0;
 "~*(?:\b)trion\.od\.ua(?:\b)" 	0;
+"~*(?:\b)triplepanda\.xyz(?:\b)" 	0;
 "~*(?:\b)tripper\.de(?:\b)" 	0;
 "~*(?:\b)triumf\-realty\.ru(?:\b)" 	0;
 "~*(?:\b)trk\-4\.net(?:\b)" 	0;
@@ -6053,6 +6135,7 @@
 "~*(?:\b)trustedmaccleaner\.com(?:\b)" 	0;
 "~*(?:\b)trustl\.life(?:\b)" 	0;
 "~*(?:\b)try\-rx\.com(?:\b)" 	0;
+"~*(?:\b)tryrating\.com(?:\b)" 	0;
 "~*(?:\b)tsan\.net(?:\b)" 	0;
 "~*(?:\b)tsstcorpcddvdwshbbdriverfb\.aircus\.com(?:\b)" 	0;
 "~*(?:\b)tsyndicate\.com(?:\b)" 	0;
@@ -6208,6 +6291,7 @@
 "~*(?:\b)utrolive\.ru(?:\b)" 	0;
 "~*(?:\b)uvozdeckych\.info(?:\b)" 	0;
 "~*(?:\b)uytmaster\.ru(?:\b)" 	0;
+"~*(?:\b)uzporno\.mobi(?:\b)" 	0;
 "~*(?:\b)uzungil\.com(?:\b)" 	0;
 "~*(?:\b)v\-doc\.co(?:\b)" 	0;
 "~*(?:\b)v24s\.net(?:\b)" 	0;
@@ -6332,6 +6416,8 @@
 "~*(?:\b)vipsiterip\.org(?:\b)" 	0;
 "~*(?:\b)virtuagirl\.com(?:\b)" 	0;
 "~*(?:\b)virtualbb\.com(?:\b)" 	0;
+"~*(?:\b)virus\-respirators\.com(?:\b)" 	0;
+"~*(?:\b)virus\-schutzmasken\.de(?:\b)" 	0;
 "~*(?:\b)visa\-china\.ru(?:\b)" 	0;
 "~*(?:\b)visa\-pasport\.ru(?:\b)" 	0;
 "~*(?:\b)visionwell\.com\.cn(?:\b)" 	0;
@@ -6393,6 +6479,7 @@
 "~*(?:\b)vsexkontakte\.net(?:\b)" 	0;
 "~*(?:\b)vtc\.pw(?:\b)" 	0;
 "~*(?:\b)vtcdns\.com(?:\b)" 	0;
+"~*(?:\b)vuclip\.com(?:\b)" 	0;
 "~*(?:\b)vucms\.com(?:\b)" 	0;
 "~*(?:\b)vut\.com\.ru(?:\b)" 	0;
 "~*(?:\b)vvon\.co\.uk(?:\b)" 	0;
@@ -6419,8 +6506,10 @@
 "~*(?:\b)wallpapersdesk\.info(?:\b)" 	0;
 "~*(?:\b)wallpapersist\.com(?:\b)" 	0;
 "~*(?:\b)wallpaperstock\.net(?:\b)" 	0;
+"~*(?:\b)walpaperlist\.com(?:\b)" 	0;
 "~*(?:\b)wanker\.us(?:\b)" 	0;
 "~*(?:\b)wapsite\.me(?:\b)" 	0;
+"~*(?:\b)wardreapptokone\.tk(?:\b)" 	0;
 "~*(?:\b)wareseeker\.com(?:\b)" 	0;
 "~*(?:\b)warezaccess\.com(?:\b)" 	0;
 "~*(?:\b)warezkeeper\.com(?:\b)" 	0;
@@ -6442,12 +6531,14 @@
 "~*(?:\b)wdfdocando\.com(?:\b)" 	0;
 "~*(?:\b)wdrake\.com(?:\b)" 	0;
 "~*(?:\b)we\-are\-gamers\.com(?:\b)" 	0;
+"~*(?:\b)web\-analytics\.date(?:\b)" 	0;
 "~*(?:\b)web\-betting\.ru(?:\b)" 	0;
 "~*(?:\b)web\.cvut\.cz(?:\b)" 	0;
 "~*(?:\b)webads\.co\.nz(?:\b)" 	0;
 "~*(?:\b)webadvance\.club(?:\b)" 	0;
 "~*(?:\b)webalan\.ru(?:\b)" 	0;
 "~*(?:\b)webcamdevochka\.com(?:\b)" 	0;
+"~*(?:\b)webcamtalk\.net(?:\b)" 	0;
 "~*(?:\b)webenlace\.com\.ar(?:\b)" 	0;
 "~*(?:\b)webextract\.profound\.net(?:\b)" 	0;
 "~*(?:\b)webinstantservice\.com(?:\b)" 	0;
@@ -6455,6 +6546,7 @@
 "~*(?:\b)webix\.me(?:\b)" 	0;
 "~*(?:\b)webjam\.com(?:\b)" 	0;
 "~*(?:\b)webkeyit\.com(?:\b)" 	0;
+"~*(?:\b)weblibrary\.win(?:\b)" 	0;
 "~*(?:\b)weblo\.com(?:\b)" 	0;
 "~*(?:\b)webmasterhome\.cn(?:\b)" 	0;
 "~*(?:\b)webmasters\.stackexchange\.com(?:\b)" 	0;
@@ -6510,6 +6602,7 @@
 "~*(?:\b)wfb\.hatedriveapart\.com(?:\b)" 	0;
 "~*(?:\b)whatistizanidine2mg\.blogspot\.com(?:\b)" 	0;
 "~*(?:\b)whatistizanidinehclusedfor\.blogspot\.com(?:\b)" 	0;
+"~*(?:\b)whatsappbot\.flyland\.ru(?:\b)" 	0;
 "~*(?:\b)whatsappdownload10\.com(?:\b)" 	0;
 "~*(?:\b)whatsupinfoley\.com(?:\b)" 	0;
 "~*(?:\b)whatzmyip\.net(?:\b)" 	0;
@@ -6550,6 +6643,7 @@
 "~*(?:\b)winwotgold\.pl(?:\b)" 	0;
 "~*(?:\b)winx\-play\.ru(?:\b)" 	0;
 "~*(?:\b)wiosenny\-bon\-1500\.pl(?:\b)" 	0;
+"~*(?:\b)witclub\.info(?:\b)" 	0;
 "~*(?:\b)witherrom55\.eklablog\.fr(?:\b)" 	0;
 "~*(?:\b)withstandingheartwarming\.com(?:\b)" 	0;
 "~*(?:\b)wjgony\.com(?:\b)" 	0;
@@ -6594,6 +6688,7 @@
 "~*(?:\b)writersgroup580\.web\.fc2\.com(?:\b)" 	0;
 "~*(?:\b)writingservices17\.blogspot\.ru(?:\b)" 	0;
 "~*(?:\b)wrona\.it(?:\b)" 	0;
+"~*(?:\b)wrz0iuebwhp5fg\.freeddns\.com(?:\b)" 	0;
 "~*(?:\b)ws\.ampower\.me(?:\b)" 	0;
 "~*(?:\b)wsgames\.ru(?:\b)" 	0;
 "~*(?:\b)wstroika\.ru(?:\b)" 	0;
@@ -6713,6 +6808,7 @@
 "~*(?:\b)xn\-\-80ajjbdhgmudixfjc8c5a9df8b\.xn\-\-p1ai(?:\b)" 	0;
 "~*(?:\b)xn\-\-80ak6aa92e\.com(?:\b)" 	0;
 "~*(?:\b)xn\-\-80aodinpgi\.xn\-\-p1ai(?:\b)" 	0;
+"~*(?:\b)xn\-\-80atua3d\.xn\-\-p1ai(?:\b)" 	0;
 "~*(?:\b)xn\-\-90acenikpebbdd4f6d\.xn\-\-p1ai(?:\b)" 	0;
 "~*(?:\b)xn\-\-b1adccaf1bzj\.xn\-\-p1ai(?:\b)" 	0;
 "~*(?:\b)xn\-\-b1addnj3cah\.xn\-\-p1ai(?:\b)" 	0;

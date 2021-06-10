@@ -300,6 +300,7 @@ MIDown tool
 MIIxpc
 Mister PiX
 MJ12bot
+Moblie Safari
 Mojeek
 Mojolicious
 Morfeus Fucking Scanner
@@ -429,6 +430,8 @@ SearchmetricsBot
 Semrush
 SemrushBot
 SentiBot
+seobility
+SeobilityBot
 SEOkicks
 SEOkicks-Robot
 SEOlyticsCrawler
@@ -436,6 +439,7 @@ Seomoz
 SEOprofiler
 seoscanners
 SeoSiteCheckup
+seostar
 SEOstats
 serpstatbot
 sexsearcher
